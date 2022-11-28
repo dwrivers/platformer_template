@@ -1,7 +1,8 @@
-# Basic Platformer
+# Basic Unity Platformer
 
 Key Features:
  - clean and simple movement
+ - idle, run, jump and death animations
  - paralax background
  - rule based tileset
  - sound effects and background music
