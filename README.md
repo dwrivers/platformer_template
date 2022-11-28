@@ -1,6 +1,6 @@
 # Basic Unity Platformer
 
-Key Features:
+Key Features...
  - clean and simple movement
  - idle, run, jump and death animations
  - paralax background
@@ -14,7 +14,14 @@ Movement mechanics include...
  - short hop
  - dash
   
-Other features:
+Other features...
  - walking sfx based off step frame in animation
  - composite collisions generated from tileset
  - cinemachine camera controls for smooth transitions
+
+Requires...
+ - Unity 2020.3.5f1
+ 
+Packages... 
+ - Cinemachine
+ - 2D Tilemap Extras
